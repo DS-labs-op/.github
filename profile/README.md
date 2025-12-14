@@ -8,7 +8,7 @@
   </p>
 
   [![Website](https://img.shields.io/badge/Website-Coming_Soon-blue?style=for-the-badge&logo=vercel)](https://github.com/DS-labs-op)
-  [![Contact](https://img.shields.io/badge/Contact-Email_Us-black?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+  [![Contact](https://img.shields.io/badge/Contact-Email_Us-black?style=for-the-badge&logo=gmail)](mailto:sahajitaliya33@gmail.com)
 
   <br />
 </div>
@@ -73,7 +73,7 @@ We leverage a modern, opinionated stack to build fast and reliable software.
       <sub>Co-Founder & Lead Engineer</sub>
       <br />
       <br />
-      <a href="https://github.com/divyviradiya1501"><img src="https://img.shields.io/badge/Role-Frontend_%26_Design-blue?style=flat-square" /></a>
+      <a href="https://github.com/divyviradiya1501"><img src="https://img.shields.io/badge/Role-Fullstack_%26_AI-blue?style=flat-square" /></a>
     </td>
   </tr>
 </table>
