@@ -39,11 +39,11 @@ We leverage a modern, opinionated stack to build fast and reliable software.
 
 ## 💎 Featured Projects
 
-### ☕ [Blue Can Coffee](https://github.com/pair-labs-op/blue-can-coffee)
+### ☕ [Blue Can Coffee](https://github.com/ds-labs-op/blue-can-coffee)
 > *A premium, mobile-first digital experience for a specialty café.*
 * **Stack:** React, TypeScript, Tailwind, Framer Motion.
 * **Highlights:** Glassmorphism UI, SEO Optimized, External Delivery Integration.
-* **Status:** 🟢 **Live**
+* **Status:** 🟢 [**Live**](https://bluecancoffee.vercel.app/)
 
 ---
 
