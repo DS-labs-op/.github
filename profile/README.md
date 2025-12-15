@@ -45,6 +45,11 @@ We leverage a modern, opinionated stack to build fast and reliable software.
 * **Highlights:** Glassmorphism UI, SEO Optimized, External Delivery Integration.
 * **Status:** 🟢 [**Live**](https://bluecancoffee.vercel.app/)
 
+### ☕ [Enso Coffee](https://github.com/ds-labs-op/enso-coffee)
+> *A premium, mobile-first digital experience for a specialty café.*
+* **Stack:** React, TypeScript, Tailwind, Framer Motion.
+* **Highlights:** Glassmorphism UI, SEO Optimized, External Delivery Integration.
+* **Status:** 🟢 [**Live**](https://ensocoffee.vercel.app/)
 ---
 
 ## 👥 The Founders
