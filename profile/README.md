@@ -89,7 +89,7 @@ We leverage a modern, opinionated stack to build fast and reliable software.
 
 <div align="center">
   <img src="https://readme-stats-seven-rust.vercel.app/api?username=sahaj33-op&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=divyviradiya1501&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://readme-stats-seven-rust.vercel.app/api?username=divyviradiya1501&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
 </div>
 
 ---
